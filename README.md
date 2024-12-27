@@ -1,5 +1,5 @@
 # **MUSCLEHUB**
- Repositorio del proyecto para la asignatura Desarrollo de Aplicaciones Cliente-Servidor
+ Repositorio del proyecto grupal para la asignatura Desarrollo de Aplicaciones Cliente-Servidor
 
  **IMPORTANTE**: Este proyecto se encuentra aún en desarrollo, por lo que la aplicación no es totalmente funcional.
 
