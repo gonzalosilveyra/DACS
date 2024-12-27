@@ -1,0 +1,48 @@
+{
+  "groups": [
+    {
+      "name": "dacs",
+      "type": "utn.dacs.ms.bff.config.CorsProperties",
+      "sourceType": "utn.dacs.ms.bff.config.CorsProperties"
+    },
+    {
+      "name": "dacs.cors",
+      "type": "utn.dacs.ms.bff.config.CorsProperties$Cors",
+      "sourceType": "utn.dacs.ms.bff.config.CorsProperties",
+      "sourceMethod": "public utn.dacs.ms.bff.config.CorsProperties.Cors getCors() "
+    }
+  ],
+  "properties": [
+    {
+      "name": "dacs.cors.allow-credentials",
+      "type": "java.lang.Boolean",
+      "sourceType": "utn.dacs.ms.bff.config.CorsProperties$Cors"
+    },
+    {
+      "name": "dacs.cors.allowed-headers",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "utn.dacs.ms.bff.config.CorsProperties$Cors"
+    },
+    {
+      "name": "dacs.cors.allowed-methods",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "utn.dacs.ms.bff.config.CorsProperties$Cors"
+    },
+    {
+      "name": "dacs.cors.allowed-origins",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "utn.dacs.ms.bff.config.CorsProperties$Cors"
+    },
+    {
+      "name": "dacs.cors.exposed-headers",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "utn.dacs.ms.bff.config.CorsProperties$Cors"
+    },
+    {
+      "name": "dacs.cors.max-age",
+      "type": "java.lang.Long",
+      "sourceType": "utn.dacs.ms.bff.config.CorsProperties$Cors"
+    }
+  ],
+  "hints": []
+}

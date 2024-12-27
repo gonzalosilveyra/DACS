@@ -1,0 +1,6 @@
+[05/Dec/2024:23:03:44 -0300] 0:0:0:0:0:0:0:1 "GET /backend/keycloak_user HTTP/1.1" 404 (395 ms)
+[05/Dec/2024:23:05:03 -0300] 0:0:0:0:0:0:0:1 "GET /backend/ping HTTP/1.1" 200 (41 ms)
+[05/Dec/2024:23:07:34 -0300] 0:0:0:0:0:0:0:1 "GET /backend/trainer HTTP/1.1" 404 (75 ms)
+[05/Dec/2024:23:08:00 -0300] 0:0:0:0:0:0:0:1 "GET /backend/trainers HTTP/1.1" 200 (2314 ms)
+[05/Dec/2024:23:11:20 -0300] 0:0:0:0:0:0:0:1 "GET /backend/trainers HTTP/1.1" 404 (258 ms)
+[05/Dec/2024:23:11:23 -0300] 0:0:0:0:0:0:0:1 "GET /backend/trainer HTTP/1.1" 200 (341 ms)
