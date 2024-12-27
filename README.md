@@ -1,7 +1,7 @@
-# MUSCLEHUB
- Repositorio del proyecto de la aplicación Angular para la asignatura Desarrollo de Aplicaciones Cliente-Servidor
+# **MUSCLEHUB**
+ Repositorio del proyecto para la asignatura Desarrollo de Aplicaciones Cliente-Servidor
 
- IMPORTANTE: Este proyecto se encuentra aún en desarrollo, por lo que la aplicación no es totalmente funcional.
+ **IMPORTANTE**: Este proyecto se encuentra aún en desarrollo, por lo que la aplicación no es totalmente funcional.
 
  Este proyecto tiene como objetivo facilitar la gestión de rutinas de entrenamiento de gimnasio mediante la asignación de las mismas por parte de los entrenadores a sus clientes.
  Además, tiene como finalidad la visualización del progreso del cliente mediante un gráfico de barras, teniendo en cuenta principalmente la variable PESO, la cual va evolucionando con el paso del tiempo.
